@@ -1,7 +1,7 @@
 <h1> Assignment 4 </h1>
   <h4> 41934 Advanced BIM Fall 22 </h4>
   
-  <em>Group 6: Gabriela Miti Tsuge Costa (s220075) and Kirstine Mia Odgaard (s193464)</em>
+  <em>Group 6: Kirstine Mia Odgaard (s193464) and Gabriela Miti Tsuge Costa (s220075)</em>
   
   
 ## 1. Goal
@@ -53,11 +53,12 @@ By ensuring that transmission loss complies with BR18, it is known, that an unne
 
 ## 6. Tool
   
- In order to support the user to calculate the transmission loss, is the tool used to look up informartion of the external walls and their materials and thickness. When this data is used in combination with the thermal conductivity, it is possible to calculate an U-value. By extracting information about the area of the external wall, by IFC, along with the dimensioning temperatures and U-value, is it possible to calculate the transmission loss. The tool presents the transmission loss for the user.
+In order to support the user to calculate the transmission loss, is the tool used to look up informartion of the external walls and their materials and thickness. When this data is used in combination with the thermal conductivity, it is possible to calculate an U-value. By extracting information about the area of the external wall, by IFC, along with the dimensioning temperatures and U-value, is it possible to calculate the transmission loss. The tool presents the transmission loss for the user.
  
- ### _6.1. Building up the tool_
+ ### _6.1. Tool_
  
 To make this possible, following steps are needed:
+
   1. Check that the IFC file (Duplex A 20110907) contains necessary data regarding the external walls. 
   2. Validate that wanted data is accessible in the external sources. 
 
@@ -65,8 +66,8 @@ Will use following to build the tool:
 
   3. Python 
   4. IFC openshell
-
-
+      - IFC Wall
+  
 Will use following equations:
 
   5. U-value: 
@@ -79,11 +80,12 @@ Will use following equations:
 
   7. Code Validation:   
 
+## 7. Delivery
+
+The tool will calculate the U-value of the external walls and perform a conformity check to see if the wall complies with the building regulation BR18. The results are displayed in an HTML format, making it easily accessible. If the wall does not achieve the requirement, the user could start the procedure again with different materials.
 
 
-
-
-## 7. Appendix
+## 8. Appendix
 
 [^1]: Standard for Denmark: 
 [^2]: Model Delivery Specification: https://anvisninger.molio.dk/gratis-vaerktojer/bygningsdelsspecifikationer/bygningsdelsspecifikationer
