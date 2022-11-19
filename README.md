@@ -29,9 +29,6 @@ The IFC Architectural model is used for the information exchange. The type of ma
 
  <p>In order to calculate the U-value, data from the DS-418 (Dansk Standard) can be used to stipulate the thermal conductivity of the materials not specified in the model. The DS-418 data was gather in [Speckle](https://speckle.xyz/streams/8ecac565ac/commits/06ae4dad4c) to facilitate the information exchange. </p>
 
-
-
-https://speckle.xyz/streams/8ecac565ac/commits/06ae4dad4c
   
   
 
