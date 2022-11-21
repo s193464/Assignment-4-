@@ -98,6 +98,8 @@ For ensuring that program works, following will be needed for python:
 
 The tool will calculate the Transmission Losses and U-value of the external walls and perform a conformity check to see if the wall complies with the building regulation BR18. The results are displayed in an HTML format, making it easily accessible. If the wall does not achieve the requirement, the user could start the procedure again with different materials.
 
+The outputted data from HTML is shown below: 
+
 ![output](https://user-images.githubusercontent.com/112421127/203129951-e19aa02d-2cec-461b-b9d9-e100ba345fc6.jpg)
 
 
