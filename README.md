@@ -89,8 +89,8 @@ Will use following equations:
 
 ## 7. Prerequisite
 For ensuring that program works, following will be needed for python: 
-- 'pip install ifcopenshell'
-- 'pip install specklepy'
+- `pip install ifcopenshell`
+- `pip install specklepy`
 
 
 ## 8. Delivery
