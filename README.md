@@ -66,7 +66,7 @@ Will use following to build the tool:
 
   3. Python 
   4. IFC openshell
-      - IFC Wall
+      - IFC Wall (Properties: Thermal Conductivity, Material, Thickness, Area)
   
 Will use following equations:
 
@@ -82,7 +82,7 @@ Will use following equations:
 
 ## 7. Delivery
 
-The tool will calculate the U-value of the external walls and perform a conformity check to see if the wall complies with the building regulation BR18. The results are displayed in an HTML format, making it easily accessible. If the wall does not achieve the requirement, the user could start the procedure again with different materials.
+The tool will calculate the Transmission Losses and U-value of the external walls and perform a conformity check to see if the wall complies with the building regulation BR18. The results are displayed in an HTML format, making it easily accessible. If the wall does not achieve the requirement, the user could start the procedure again with different materials.
 
 
 ## 8. Appendix
