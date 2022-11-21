@@ -89,4 +89,4 @@ The tool will calculate the U-value of the external walls and perform a conformi
 
 [^1]: https://bygningsreglementet.dk/Tekniske-bestemmelser/11/Krav/257
 [^2]: Model Delivery Specification: https://anvisninger.molio.dk/gratis-vaerktojer/bygningsdelsspecifikationer/bygningsdelsspecifikationer
-[^3]: DS418
+[^3]: DS418: https://webshop.ds.dk/standard/M337200/ds-418-2011-till-1-2020
