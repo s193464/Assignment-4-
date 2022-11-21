@@ -16,7 +16,8 @@ Furthermore, when the U-value is calculated, and the total area of the externall
  
 ## 3. Workflow
  
-  ![diagram](https://user-images.githubusercontent.com/112421127/198092534-47443485-9ad6-467c-8a1a-c3996f963a3e.svg)
+  ![diagram (1)](https://user-images.githubusercontent.com/112421127/203129150-8d47b330-88d4-4c17-a93a-1833b22aa483.svg)
+
   
 ### _Process_
 
