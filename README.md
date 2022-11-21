@@ -87,6 +87,6 @@ The tool will calculate the U-value of the external walls and perform a conformi
 
 ## 8. Appendix
 
-[^1]: Standard for Denmark: 
+[^1]: https://bygningsreglementet.dk/Tekniske-bestemmelser/11/Krav/257
 [^2]: Model Delivery Specification: https://anvisninger.molio.dk/gratis-vaerktojer/bygningsdelsspecifikationer/bygningsdelsspecifikationer
 [^3]: DS418
